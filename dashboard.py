@@ -279,4 +279,4 @@ elif selection == "RFM Analysis":
 
 # Footer
 st.markdown("---")
-st.markdown("**Dashboard dibuat oleh [Nama Anda]** © 2023")
+st.markdown("**Dashboard dibuat oleh Ketut Dionanda Sutrisna** © 2024")
